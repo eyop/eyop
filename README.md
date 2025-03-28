@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="25" /></a>  
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="25" /></a>  
 </div>  
-
+<!--
 <br/>  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=eyop&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
