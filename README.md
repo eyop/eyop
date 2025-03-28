@@ -38,8 +38,9 @@ Here are some ideas to get you started:
 ### ✍️ The Chosen One (Quote)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 The chosen one (Meme)
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=eyop&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=eyop&icon=0&color=0)](https://visitcount.itsvg.in)
