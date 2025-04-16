@@ -158,6 +158,10 @@ Here are some ideas to get you started:
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=eyop&show_icons=true&count_private=true)
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=eyop&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=eyop&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eyop&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
 ## 🏆 GitHub Trophies
