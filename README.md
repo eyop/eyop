@@ -153,7 +153,7 @@ Here are some ideas to get you started:
 -->
 
 # 📊 GitHub Stats:
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=eyop&show_icons=true&count_private=true&cachebuster=1)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=eyop&show_icons=true&count_private=true)
 
 
 # 📊 GitHub Stats:
