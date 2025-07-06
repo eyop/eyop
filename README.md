@@ -1,6 +1,4 @@
-### Hi there 👋  
-
- # I'm Eyob  
+### Hi there 👋 ,  I'm Eyob  
 
 <!--
 **eyop/eyop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
