@@ -237,16 +237,6 @@ Award-winning Android app with **Firebase Auth + Firestore** for secure real-tim
 
 ---
 
-## 💼 Experience Snapshot
-
-```
-🟥 CCI Ethiopia          │ IT Desktop Support      │ Apr 2025 – Present
-🟧 Reality AI Lab        │ Generative AI Engineer  │ Jan 2025 – Sep 2025
-🟨 Freelance             │ Software Dev & AI Consul │ Jun 2020 – Present
-🟩 Paragon One           │ AI Product Externship   │ Jan 2024 – Feb 2024
-```
-
----
 
 <div align="center">
 
@@ -255,7 +245,10 @@ Award-winning Android app with **Firebase Auth + Firestore** for secure real-tim
 > *"Security is not a product, but a process — and AI is the force multiplier."*
 
 ---
-
+ ### ✍️ The Chosen One (Quote) ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
+ --- 
+ [![](https://visitcount.itsvg.in/api?id=eyop&icon=0&color=0)](https://visitcount.itsvg.in) <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
+ 
 **Open to:** Remote DevSecOps Roles · AI Engineering Positions · Cybersecurity Opportunities · Collaboration
 
 [![Profile Views](https://visitcount.itsvg.in/api?id=eyop&icon=6&color=9)](https://visitcount.itsvg.in)
