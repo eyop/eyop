@@ -245,7 +245,10 @@ Award-winning Android app with **Firebase Auth + Firestore** for secure real-tim
 > *"Security is not a product, but a process — and AI is the force multiplier."*
 
 ---
+### ✍️ The Chosen One (Quote)
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
+---
 [![](https://visitcount.itsvg.in/api?id=eyop&icon=0&color=0)](https://visitcount.itsvg.in) <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
  
 **Open to:** Remote DevSecOps Roles · AI Engineering Positions · Cybersecurity Opportunities · Collaboration
