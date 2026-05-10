@@ -1,12 +1,14 @@
 <div align="center">
 
 ```
-███████╗██╗   ██╗ ██████╗ ██████╗
-██╔════╝╚██╗ ██╔╝██╔═══██╗██╔══██╗
-█████╗   ╚████╔╝ ██║   ██║██████╔╝
-██╔══╝    ╚██╔╝  ██║   ██║██╔══██╗
-███████╗   ██║   ╚██████╔╝██████╔╝
-╚══════╝   ╚═╝    ╚═════╝ ╚═════╝
+<pre>
+███████╗██╗   ██╗ ██████╗ ██████╗     ██╗  ██╗
+██╔════╝╚██╗ ██╔╝██╔═══██╗██╔══██╗    ██║ ██╔╝
+█████╗   ╚████╔╝ ██║   ██║██████╔╝    █████╔╝
+██╔══╝    ╚██╔╝  ██║   ██║██╔══██╗    ██╔═██╗
+███████╗   ██║   ╚██████╔╝██████╔╝    ██║  ██╗
+╚══════╝   ╚═╝    ╚═════╝ ╚═════╝     ╚═╝  ╚═╝
+</pre>
 ```
 
 ### `Security Engineer` · `AI/ML Engineer` · `Full Stack Developer`
@@ -26,11 +28,11 @@
 eyob = {
     "role":        "Security-Focused Engineer | DevSecOps | Generative AI",
     "experience":  "3+ years across Full Stack · AI · Cybersecurity",
-    "education":   "BSc Computer Science — GPA 3.8/4.0 (Highest Distinction)",
+    "education":   "BSc Computer Science ",
     "location":    "Addis Ababa, Ethiopia 🇪🇹",
     "currently":   "IT Desktop Support @ CCI Ethiopia + Freelance AI Consulting",
     "mission":     "Shift Left Security · Build Secure Systems · Democratize AI",
-    "certs":       15,
+    "certs":       15+,
     "ask_me_about": ["DevSecOps", "LLMs & RAG", "Android Dev", "Network Security"]
 }
 ```
@@ -68,9 +70,9 @@ eyob = {
 <td valign="top" width="33%">
 
 ### 🌐 Full Stack & Cloud
-- React · Node.js · Python · Django
 - Android (Java/Kotlin MVVM)
 - Flutter / Dart
+- React · Node.js · Python · Django
 - Google Cloud Platform (GCP)
 - Firebase · Cloud Run · Docker
 - REST APIs & gRPC
