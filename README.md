@@ -219,10 +219,9 @@ Award-winning Android app with **Firebase Auth + Firestore** for secure real-tim
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Eyob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eyop&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eyop&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9)
+<!-- ![Eyob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eyop&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=C9D1D9) -->
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eyop&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9)
+ -->
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=eyop&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B)
 
