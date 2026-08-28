@@ -31,7 +31,6 @@ eyob = {
     "experience":  "3+ years across Full Stack · AI · Cybersecurity",
     "education":   "BSc Computer Science ",
     "location":    "Addis Ababa, Ethiopia 🇪🇹",
-    #"currently":   "IT Desktop Support @ CCI Ethiopia + Freelance AI Consulting",
     "mission":     "Shift Left Security · Build Secure Systems · Democratize AI",
     "certs":       15+,
     "ask_me_about": ["DevSecOps", "LLMs & RAG", "Android Dev", "Network Security"]
