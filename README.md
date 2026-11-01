@@ -193,27 +193,6 @@ Award-winning Android app with **Firebase Auth + Firestore** for secure real-tim
 
 ---
 
-## 🏆 Certifications
-
-| Certification | Issuer | Year |
-|---|---|---|
-| 🌍 Frontier Tech Leaders – Cybersecurity | UNDP ICPSD | 2026 |
-| 🔐 Elastic Security for SIEM | Elastic | 2025 |
-| ☁️ DevOps on AWS Specialization | Amazon Web Services | 2025 |
-| 🔥 Fortinet Certified Fundamentals in Cybersecurity | Fortinet | 2025–2027 |
-| 🛡️ FCA – FortiGate 7.6 Operator | Fortinet | 2025 |
-| 🌱 Aspire Leaders Program | Aspire Institute | 2025 |
-| 🔍 Google Cybersecurity Professional Certificate | Google | 2024 |
-| 🧠 IBM AI Engineering Professional Certificate | IBM | 2023 |
-| ☁️ Google Cloud Training | Google Africa Developer Program | 2023 |
-| 🔬 Penetration Testing, IR & Forensics | IBM | 2023 |
-| 🌐 Oracle Cloud Infrastructure Foundations | Oracle | 2023 |
-| 🌐 CCNAv7 | Cisco Networking Academy | 2021 |
-| 🔒 (ISC)² Networks & Communications Security | Coursera | 2022 |
-| 💻 Embedded Software & Hardware Architecture | Univ. of Colorado Boulder | 2022 |
-| 🎯 Cybersecurity Bootcamp – Cohort 6 | CyberTalents | 2024 |
-
----
 
 ## 📊 GitHub Stats
 
